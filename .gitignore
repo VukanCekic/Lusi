@@ -1,0 +1,30 @@
+# .NET Core and Visual Studio directories
+bin/
+obj/
+.vscode/
+.vs/
+*.userprefs
+*.vspscc
+
+# NuGet Packages
+*.nupkg
+*.pdb
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio Test Output
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Roslyn cache directories
+*.ide/
+*.RoslynCache/
+
+# Miscellaneous
+node_modules/
+bower_components/
+*.log
+*.bak
+*.
